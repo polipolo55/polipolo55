@@ -2,8 +2,6 @@
 
 Student at UPC-FIB 
 
-my repos are just some projects i've worked on, don't look too close
-
 <!--
 **polipolo55/polipolo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
